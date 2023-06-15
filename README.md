@@ -27,7 +27,6 @@ JWT_SECRET= JWT Key
 - [x] Update Student Profile
 - [x] Can take Attendance Daily
 - [x] Dispaly Attendance Details
-- [x] Download Csv file of attendance
 - [x] Delete Attendance of previous n days
 - [x] Control User List
 - [x] Edit User Admin Status
